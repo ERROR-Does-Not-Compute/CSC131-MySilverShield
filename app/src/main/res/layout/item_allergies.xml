@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linear"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="3dp"
+    android:keepScreenOn="true">
+
+    <TextView
+        android:id="@+id/tvAllergy"
+        style="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#A6A6A6"
+        android:text="@string/allergy"
+        android:textColor="@color/black"
+        android:textSize="27dp"
+        tools:ignore="SpUsage" />
+
+</LinearLayout>

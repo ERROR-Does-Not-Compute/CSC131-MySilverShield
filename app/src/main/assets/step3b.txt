@@ -1,0 +1,22 @@
+Just like telephone scams, tech support scams / virus scams prey on the elderly and the less technologically savvy.
+-----------------------------------------------------
+
+How do they appear?
+
+These types of scams typically appear when browsing the web and will appear as a pop-up that freezes your phone / computer screen with a message saying "Your Apple computer is infected with a virus, call this number to get it removed".
+
+All you need to do to "fix" this is shut the browser or turn off the computer and if you are worried, use your security / antivirus software to run a scan of your computer.
+
+NEVER CALL THAT NUMBER, but if you do, note they will probably try to get you to install some sort of remote screen control software such as "TeamViewer" to take over your computer and upload malicious files. Once they have control, they will upload viruses and "ransomware" that will encrypt your computer's files until you pay them to decrypt them.
+
+This is why it is crucial to never let them into your computer. If you think you may have a virus, got to an actual tech support shop / computer repair shop like the Geek Squad at your local Best Buy.
+
+-----------------------------------------------------
+
+It is important to remember that the goal of most scammers is to use social engineering to try and scare you into immediate action and isolate you into immediate action and isolate you / keep you from talking to anyone else.
+
+Do not be afraid to ask other people, friends, and family members if they think it is a scam.
+
+The best way to protect yourself is to assume every call or email you don't recognize the sender and every message that pops up on your screen or freezes your computer is a scam.
+
+To see some info about the most recent scams circulating check out the following websites by clicking their respective buttons below.
